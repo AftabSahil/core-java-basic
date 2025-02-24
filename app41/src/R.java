@@ -3,6 +3,7 @@ class R
 	R()
 	{
 	}
+
 	R(int i)
 	{
 		System.out.println();

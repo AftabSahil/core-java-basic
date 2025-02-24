@@ -1,6 +1,5 @@
-class A 
+class A
 {
-
 	int i, j;
 	A(int i, int j)
 	{
@@ -8,12 +7,11 @@ class A
 		this.j = j;
 	}
 }
-class H
+class H 
 {
-
 	public static void main(String[] args) 
 	{
-		A a1 = new A(10,30);
+		A a1 = new A(10, 30);
 		System.out.println(a1.i);
 		System.out.println(a1.j);
 	}

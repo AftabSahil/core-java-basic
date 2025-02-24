@@ -1,47 +1,53 @@
 app1	:	Hello world dev
-
 app2	:	Literals and single line comments
 app3	:	println and print
 app4	:	variables
-app5	:	identifiers, keywords and multi line comments 
-app6    :	built-in
-app7    :	concatenation
-app8    :	Mathmatical Operators
-app9    :	Boolean Operators
-app10   :	Logical Operators
-app11   :	Unary Operators
-			++(incrementing one unit in the variable)
-			--(decrementing one unit in the variable)
-app12 :	command line arguments
-app13 :	decimal to binary and binary to decimal
-app14 :	bitwise operator
-app15 :	if blocks
-app16 :	sequential if blocks
-app17 :	nested if blocks
-app18 :	else blocks
-app19 :	if-else blocks inside an if block
-app20 :	if blocks inside an else block
-app21 :	ternary operator
-app22 :	switch-case-default
-app23 : table switch and lookup swith
-app24 : unary operators with logical operators
-app25 : unary operators with the if block
-          4. For loop
-       5. Nested for loops
-      6. labeled for loops
-app26 : for loop
-app27 : nested loop and labeled loop
-app28 : while loop
-app29 : do-while loop
-app30 : for-each loop
-app31 : methods
-app32 : methods parameter argument
-app33 : method return type
-app34 : method with unary operators
-app35 : attributes/field/ global variable
-app36 : static initializer
-app37 : IFR
-app38 : using other class member
-app39 : class , object,reference
-app40 : this is reference variable
-app42 : construter
+app5	:	identifiers, keywords and multi line comments
+app6	:	built-in
+app7	:	concatenation
+app8	:	Mathematical Operators
+app9	:	boolean operators
+app10	:	logical operators
+app11	:	unary operators
+app12	:	command line arguments
+app13	:	decimal to binary and binary to decimal
+app14	:	bitwise operators
+app15	:	if blocks
+app16	:	sequential if blocks
+app17	:	nested if blocks
+app18	:	else blocks
+app19	:	if-else blocks inside an if block
+app20	:	if blocks inside an else block
+app21	:	ternary operator
+app22	:	switch-case-default
+app23	:	Table switch and lookup switch
+app24	:	Unary operators with logical operators
+app25	:	Unary operators with the if blocks
+app26	:	for loops
+app27	:	nested loops and labeled loops
+app28	:	while loop
+app29	:	do-while loop
+app30	:	for-each loop
+app31	:	methods basics
+app32	:	method parameters/arguments
+app33	:	method return types
+app34	:	methods with unary operators
+app35	:	attributes/fields/global variables
+app36	:	static initalizers
+app37	:	IFR
+app38	:	using other class members
+app39	:	class, object and references
+app40	:	this as a reference variable
+app41	:	contructor, constructor overloading, this calling statement
+app42	:	default constructor
+app43	:	IIB
+app44	:	inheritance
+app45	:	square and rectangle patterns
+
+
+
+
+
+
+
+

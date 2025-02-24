@@ -1,18 +1,15 @@
 class B 
 {
 	int i;
-	static void test(B a1)
+
+	void test()
 	{
-		System.out.println("test:" + a1.i);
-		a1.i =  40;
+		System.out.println("test");
 	}
 	public static void main(String[] args) 
 	{
-		B a1= new B();
-		System.out.println(a1.i);
-		a1.i = 20;
-		test(a1);
-		System.out.println(a1.i);
-
+		B b1 = new B(); 
+		System.out.println(b1.i);
+		b1.test();
 	}
 }

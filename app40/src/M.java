@@ -1,17 +1,18 @@
 class M 
 {
-	int  i = 10;
-	void test()
+	int param;
+
+	void setParam(int param)
 	{
-		System.out.println("test:" + i);
-		int i = 400;
-		System.out.println("test:" + i);
-		System.out.println("test:" + this.i);
+		this.param = param;
 	}
+
+
 	public static void main(String[] args) 
 	{
-		M obj = new M();
-		obj.test();
-		System.out.println("done");
+		M m1 = new M();
+		System.out.println(m1.param);
+		m1.setParam(90);
+		System.out.println(m1.param);
 	}
 }

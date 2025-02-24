@@ -1,24 +1,18 @@
-class P 
+class A 
 {
 	int i;
+
+	static void test(A a1)
+	{
+		System.out.println("test:" + a1.i);
+		a1.i = 40;
+	}
 	public static void main(String[] args) 
 	{
-		P p1 = new p();
-		p1.i = 10;
-		System.out.println(p1.i);
-		test(p1);
-		System.out.println(p1.i);
-		p1.i += 20;
-		test(p1);
-		System.out.println(p1.i);
-		p1.i += 30;
-		test(p1);
-		System.out.println(p1.i);
-	}
-	public static void test(P ref)
-	{
-		System.out.println("test:" + ref.i);
-		ref.i += 40;
-
+		A a1 = new A();
+		System.out.println(a1.i);
+		a1.i = 20;
+		test(a1);
+		System.out.println(a1.i);
 	}
 }

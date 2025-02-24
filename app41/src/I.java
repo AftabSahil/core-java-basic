@@ -1,24 +1,31 @@
-class person 
+class Person
 {
 	String name;
 	int age;
-	person(String name,int age)
+	Person(String name, int age)
 	{
-		this .name = name;
+		this.name = name;
 		this.age = age;
 	}
 }
-class I
+class I 
 {
-     
 	public static void main(String[] args) 
 	{
-		person p1 = new person("murali", 33);
-		person p2 = new person("swathi", 23);
-		person p3 = new person("suresh", 35);
-		System.out.println(p1.name + " ," + p1.age);
-		System.out.println(p2.name + " ," + p2.age);
-		System.out.println(p3.name + " ," + p3.age);
-	
+		Person p1 = new Person("Murali", 33);
+		Person p2 = new Person("Swathi", 23);
+		Person p3 = new Person("Suresh", 35);
+		System.out.println(p1.name + "," + p1.age);
+		System.out.println(p2.name + "," + p2.age);
+		System.out.println(p3.name + "," + p3.age);
 	}
 }
+
+
+
+
+
+
+
+
+

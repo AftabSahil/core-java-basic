@@ -1,0 +1,151 @@
+
+pattern1:
+
+A A A A A A A
+A A A A A A A
+A A A A A A A
+A A A A A A A
+A A A A A A A
+A A A A A A A
+
+
+pattern2:
+
+A B C D E F G
+A B C D E F G
+A B C D E F G
+A B C D E F G
+A B C D E F G
+A B C D E F G
+
+pattern3:
+A B C D E F
+B C D E F G
+C D E F G H
+D E F G H I
+E F G H I J
+F G H I J K
+
+
+pattern4:
+F F F F F F F 
+E E E E E E E
+D D D D D D D
+C C C C C C C
+B B B B B B B
+A A A A A A A
+
+
+pattern5:
+F E D C B A
+F E D C B A
+F E D C B A
+F E D C B A
+F E D C B A
+F E D C B A
+
+pattern6:
+A B C D C B A
+A B C D C B A
+A B C D C B A
+A B C D C B A
+A B C D C B A
+
+pattern7:
+A A A A A A A
+B 0 0 0 0 0 B
+C 0 0 0 0 0 C
+D 0 0 0 0 0 D
+E 0 0 0 0 0 E
+F 0 0 0 0 0 F
+G G G G G G G
+
+pattrn8:
+0 A B C D E
+A 0 B C D E 
+A B 0 C D E 
+A B C 0 D E 
+A B C D 0 E 
+A B C D E 0
+
+
+pattrn9:
+0 A B C D 0
+A 0 B C 0 E 
+A B 0 0 D E 
+A B 0 0 D E 
+A 0 C D 0 E 
+0 B C D E 0
+
+
+
+pattrn10:
+a A b B c C
+d D e E f F
+g G h H i I
+j J k K l L
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

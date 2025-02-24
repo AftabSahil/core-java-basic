@@ -2,14 +2,17 @@ class G
 {
 	void test()
 	{
-		System.out.println(this);
+		System.out.println("test:" + this);
 	}
-    G() 
+	public static void main(String[] args) 
 	{
-		System.out.println(this);
+		G g1 = new G();
+		System.out.println("main1:" + g1);
+		g1.test();
+		System.out.println("---------------");
+		G g2 = new G();
+		System.out.println("main2:" + g2);
+		g2.test();
+		System.out.println("---------------");
 	}
-	{
-		System.out.println(this);
-	}
-
 }

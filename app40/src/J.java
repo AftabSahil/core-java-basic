@@ -1,16 +1,28 @@
 class J 
 {
 	int i;
-	void test()
+	void test1()
 	{
-		System.out.println("test:" + i);
-		i = 400;
+		System.out.println("test1:" + i);
+		i += 10;
+		test2();
 	}
+
+	void test2()
+	{
+		System.out.println("test2:" + i);
+		i += 20;
+	}
+
 	public static void main(String[] args) 
 	{
-		J obj = new J();
-		obj.i = 40;
-		obj.test();
-		System.out.println("main:" + obj.i);
+		J j1 = new J();
+		j1.i = 5;
+		System.out.println("main1:" + j1.i);
+		j1.test1();
+		System.out.println("main2:" + j1.i);
+		j1.i += 30;
+		j1.test2();
+		System.out.println("main3:" + j1.i);
 	}
 }

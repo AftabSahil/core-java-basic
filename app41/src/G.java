@@ -1,10 +1,12 @@
 class G 
 {
-	int i ;
+	int i;
+
 	G(int i)
 	{
 		this.i = i;
 	}
+
 	public static void main(String[] args) 
 	{
 		G g1 = new G(10);

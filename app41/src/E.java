@@ -1,6 +1,6 @@
 class E 
 {
-	void  E()
+	void E()
 	{
 		System.out.println("E()");
 	}

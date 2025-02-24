@@ -1,13 +1,16 @@
-class  T  
+class T 
 {
 	T()
 	{
-		this (90);
+		this(90);
 	}
-	T (int i)
+
+	T(int i)
 	{
 		this();
 	}
+
+
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World!");
