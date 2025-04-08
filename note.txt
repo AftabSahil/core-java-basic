@@ -1,18 +1,18 @@
-app1	:	Hello world dev
-app2	:	Literals and single line comments
-app3	:	println and print
-app4	:	variables
-app5	:	identifiers, keywords and multi line comments
-app6	:	built-in
-app7	:	concatenation
-app8	:	Mathematical Operators
-app9	:	boolean operators
-app10	:	logical operators
-app11	:	unary operators
-app12	:	command line arguments
-app13	:	decimal to binary and binary to decimal
-app14	:	bitwise operators
-app15	:	if blocks
+app1		:	Hello world dev
+app2		:	Literals and single line comments
+app3		:	println and print
+app4		:	variables
+app5		:	identifiers, keywords and multi line comments
+app6		:	built-in
+app7		:	concatenation
+app8		:	Mathematical Operators
+app9		:	boolean operators
+app10		:	logical operators
+app11		:	unary operators
+app12		:	command line arguments
+app13		:	decimal to binary and binary to decimal
+app14		:	bitwise operators
+app15		:	if blocks
 app16	:	sequential if blocks
 app17	:	nested if blocks
 app18	:	else blocks
